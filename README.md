@@ -15,7 +15,8 @@ AI Student |Developer| Problem-Solver | Coding Enthusiast :<br><br>👋 Hi, I’
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
----<a href="https://visitcount.itsvg.in">
+---
+<br><a href="https://visitcount.itsvg.in">
   <img src="https://visitcount.itsvg.in/api?id=Muhammad-Irtaza-Ali&label=Profile%20Views&color=2&icon=2&pretty=true" />
 </a>
 
