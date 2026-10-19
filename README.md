@@ -23,7 +23,7 @@ I explore practical AI applications, computer vision, natural-language processin
 | [Air-Canvas](https://github.com/Muhammad-Irtaza-Ali/Air-Canvas) | Computer-vision experiment | Gesture-driven drawing experiments using a webcam, OpenCV, and MediaPipe, with separate notebook variants for OCR and non-OCR use. |
 | [SSIB-Hackathon-Project](https://github.com/Muhammad-Irtaza-Ali/SSIB-Hackathon-Project) | Hackathon prototype | A web project containing a storefront, a login/sign-up interface, and a React/Three.js shoe-customization application. |
 | [AI-Projects-for-Beginners](https://github.com/Muhammad-Irtaza-Ali/AI-Projects-for-Beginners) | Coursework | A coursework collection of notebooks covering classification, regression, clustering, neural networks, and NLP fundamentals. |
-| [University-Chatbot](https://github.com/Muhammad-Irtaza-Ali/University-Chatbot) | Planning / README only | A repository reserved for a university chatbot project. |
+| [University-Chatbot](https://github.com/Muhammad-Irtaza-Ali/University-Chatbot) | In development | New document-search prototype with PDF/text upload, BM25 passage retrieval, source references, and core tests. |
 | [DSA-Course](https://github.com/Muhammad-Irtaza-Ali/DSA-Course) | Coursework | Java coursework, lab exercises, assignments, and output images for data structures and algorithmic problem solving. |
 | [CodeAlpha_FIBONACCI_GENERATOR_APP](https://github.com/Muhammad-Irtaza-Ali/CodeAlpha_FIBONACCI_GENERATOR_APP) | Learning project | A Python/Django web application that generates a requested number of Fibonacci terms through an HTML interface. |
 | [My_Portfolio](https://github.com/Muhammad-Irtaza-Ali/My_Portfolio) | Personal website | A static portfolio presenting selected AI applications, web projects, programming coursework, and contact information. |
@@ -42,7 +42,7 @@ I explore practical AI applications, computer vision, natural-language processin
 
 ## How to explore
 
-Start with the selected projects, read each repository's setup guide, then inspect the implementation. Coursework is listed separately from application prototypes. A repository with only planning documentation is labeled accordingly.
+Start with the selected projects, read each repository's setup guide, then inspect the implementation. Coursework is listed separately from application prototypes. Project status distinguishes new implementations from established work; the document assistant's interface review remains pending.
 
 ## Collaboration
 
